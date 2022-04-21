@@ -1,6 +1,4 @@
 from flask import Flask
-import os
-import datetime
 
 
 def create_app():
